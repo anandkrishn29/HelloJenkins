@@ -18,7 +18,7 @@ public class PSSM2 {
 		System.out.println("Add to shopping cart");
 	}
 
-	@After
+	@Test
 	public void logout()
 	{
 		System.out.println("Logout window of web");
