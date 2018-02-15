@@ -17,7 +17,7 @@ public class PSSM1 {
 		       System.out.println("Employee age is"+ age );
 		       System.out.println("Employee salary is" +salary );
 		       System.out.println("Employee vpay is"+ vpay );
-		       System.out.println("HELLO ANAND" );
+		       System.out.println("HELLO ANAND How r u" );
 			}
 
 }
